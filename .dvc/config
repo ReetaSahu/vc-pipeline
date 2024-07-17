@@ -1,0 +1,4 @@
+[core]
+    remote = myremot01
+['remote "myremot01"']
+    url = C:\Users\RAHULS~1\AppData\Local\Temp\vc1
